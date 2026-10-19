@@ -4,6 +4,7 @@ const App = () => {
   return (
  <main>
   <NavBar/>
+  <Hero/>
   </main>
   )
 }
